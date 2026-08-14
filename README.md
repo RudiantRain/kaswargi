@@ -177,7 +177,6 @@ public_html/
 ├── assets-p/            # tema Finapp aktif + manifest & service worker PWA
 ├── assets-fi/           # varian Finapp (jQuery, Bootstrap 5, Chart.js, dll.)
 ├── assets/              # AdminLTE 2.4.12 (legacy)
-├── database/project.sql # dump skema legacy POS (belum mencakup tabel RT)
 ├── system/              # core CodeIgniter 3.1.10
 ├── uploads/             # gambar kabar & foto operator
 ├── index.php            # front controller
@@ -190,6 +189,12 @@ prefiks `r-` = halaman publik (Review).
 
 ## 4. Screenshot
 
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20214942.png" alt="Alt Text">
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20215407.png" alt="Alt Text">
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20215445.png" alt="Alt Text">
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20215535.png" alt="Alt Text">
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20215634.png" alt="Alt Text">
+<img src="https://github.com/RudiantRain/kaswargi/blob/main/assets-p/assets/img/Screenshot%202026-08-14%20215800.png" alt="Alt Text">
 
 
 ## 5. Lisensi
